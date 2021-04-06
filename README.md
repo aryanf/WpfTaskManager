@@ -1,1 +1,1 @@
-"# WpfTaskManager" 
+# WpfTaskManager
