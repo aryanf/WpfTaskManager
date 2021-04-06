@@ -1,0 +1,11 @@
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\bin\Debug\CoreComponents.dll
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\bin\Debug\CoreComponents.pdb
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\bin\Debug\Interfaces.dll
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\bin\Debug\Interfaces.pdb
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\obj\Debug\CoreComponents.csprojAssemblyReference.cache
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\obj\Debug\CoreComponents.csproj.CoreCompileInputs.cache
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\obj\Debug\CoreComponents.csproj.CopyComplete
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\obj\Debug\CoreComponents.dll
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\obj\Debug\CoreComponents.pdb
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\bin\Debug\Common.dll
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\CoreComponents\bin\Debug\Common.pdb

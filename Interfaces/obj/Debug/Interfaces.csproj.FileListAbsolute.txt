@@ -1,0 +1,9 @@
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\Interfaces\bin\Debug\Common.dll
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\Interfaces\bin\Debug\Common.pdb
+C:\Users\AryanFirouzian\source\repos\WpfTaskManager\WpfTaskManager\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
